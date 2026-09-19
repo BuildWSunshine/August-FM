@@ -1,0 +1,80 @@
+:root {
+  --cream: #F3EBD7;
+  --black: #000000;
+  --radio-black: #10100F;
+
+  --yellow: #F4C400;
+  --signal-red: #E74425;
+
+  --pool-blue: #72BFD0;
+  --cassette-blue: #244A73;
+
+  --afterglow-orange: #E86C24;
+
+  --text-light: #F7F3EA;
+  --text-dark: #111111;
+
+  
+  --citrus: #F4C400;
+  --drive: #D89A2B;
+  --static: #C9C3B8;
+  --afterglow: #E86C24;
+
+
+  --citrus-dark: #6E5A00;
+  --drive-dark: #3B2A17;
+  --static-dark: #1E1E1E;
+  --afterglow-dark: #1A0E12;
+
+
+}
+
+body {
+    margin: 0;
+}
+
+#hero {
+  display: flex;
+  background-color: #F4C400;
+  width: 100%;
+  height: 100vh;
+}
+
+#gallery {
+  display: flex;
+  background-color:  #72BFD0;
+  width: 100%;
+  height: 100vh;
+}
+
+#cassete {
+  display: flex;
+  background-color: greenyellow;
+  width: 100%;
+  height: 100vh;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.box {
+    width: 250px;
+    height: 350px;
+    flex-shrink: 0;
+}
+
+.wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+#footer {
+  display: flex;
+  background-color: #E74425;
+  width: 100%;
+  height: 10vh;
+}
