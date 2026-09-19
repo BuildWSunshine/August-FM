@@ -1245,7 +1245,7 @@ Not part of the current build:
 
 ## External / AI References
 
-### User-originated source material
+### Source material by me
 
 The concept is grounded in:
 
@@ -1254,10 +1254,10 @@ The concept is grounded in:
 - cassette-tape fixation
 - summer imagery
 - radio / car-stereo references
-- user preference for clean layouts with tactile detail
-- user preference for black lower sections with saturated accent color
-- user desire for actual music later
-- user preference for personally meaningful practice work over arbitrary briefs
+- preference for clean layouts with tactile detail
+- preference for black lower sections with saturated accent color
+- desire for actual music later
+- preference for personally meaningful practice work over arbitrary briefs
 
 ### Real-world visual references
 
