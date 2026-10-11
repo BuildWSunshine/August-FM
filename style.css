@@ -58,6 +58,24 @@ body {
   display: flex;
   flex-wrap: nowrap;
 }
+ 
+.carousel {
+  width: 100%;
+  overflow: hidden;
+}
+
+.track {
+  display: flex;
+  width: max-content;
+  will-change: transform;
+  animation: smile-and-wave-boys-smile-and-wave 90s linear infinite;
+}
+
+@keyframes smile-and-wave-boys-smile-and-wave {
+  to {
+    transform: translateX(-50%);
+  }
+}
 
 .box {
     width: 250px;
