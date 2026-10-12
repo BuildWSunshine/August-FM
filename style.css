@@ -33,6 +33,21 @@ body {
     margin: 0;
 }
 
+h1 {
+  font-family: "Kaushan Script", cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto; 
+}
+
+h3 {
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  padding-right: 20px;
+}
+
 #hero {
   display: flex;
   background-color: #F4C400;
@@ -46,6 +61,7 @@ body {
   width: 100%;
   height: 100vh;
 }
+
 
 #cassete {
   display: flex;
